@@ -1,0 +1,2 @@
+基本软件环境
+apt-get install g++ make gawk vim wget xz-utils -y
